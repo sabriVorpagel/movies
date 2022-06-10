@@ -1,6 +1,6 @@
 # Movies 
 
 ## Integrantes 
-Laura Cruz
-Romina Petilo 
-Sabrina Vorpagel
+*Laura Cruz
+*Romina Petilo 
+*Sabrina Vorpagel
