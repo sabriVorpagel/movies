@@ -1,7 +1,7 @@
 # Movies 
 
 ## Integrantes 
-* Jose Betancur
+* Jose Betancur,22,cutral.co 
 * Laura Cruz
 * Romina Petilo 
 * Sabrina Vorpagel
